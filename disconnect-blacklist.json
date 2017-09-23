@@ -7519,6 +7519,13 @@
                 }
             },
             {
+                "Etsy": {
+                    "https://www.etsy.com/": [
+                        "site.etsystatic.com"
+                    ]
+                }
+            },
+            {
                 "Facebook": {
                     "http://www.facebook.com/": [
                         "akamaihd.net",
